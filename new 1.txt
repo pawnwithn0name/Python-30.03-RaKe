@@ -1,0 +1,5 @@
+txt = "Prachi"
+print(txt)
+
+print(txt [::-1])
+print(txt[2:6])
